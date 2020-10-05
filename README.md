@@ -4,4 +4,5 @@
 Python notebook displaying streaks of random coin tosses
 
 #### Todo
-- [] Create different scenarios and display averages in chart
+- [] Create different scenarios
+- [] display averages in chart
